@@ -1,0 +1,11 @@
+{
+  "name": "notebox-backend",
+  "version": "1.0.0",
+  "description": "notebox-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrei Aioanei",
+  "license": "ISC"
+}

@@ -1,0 +1,6 @@
+werkzeug
+Flask
+Flask-Session
+flask-obscure
+Flask-JWT
+flask_cors
